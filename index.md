@@ -1,36 +1,66 @@
-## Welcome to GitHub Pages
+## Seraph Development
 
-You can use the [editor on GitHub](https://github.com/Duelawig/Seraph/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### What is Seraph
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Seraph is a lightweight, easy to use, advanced cyber security console intended for pen testing and ethical hacking purposes only.
 
-### Markdown
+### When will Seraph be released
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Seraph is in a very unstable version at the moment and we do not have a release date yet.
 
-```markdown
-Syntax highlighted code block
+### Current Commands
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+```
+ping ^<ip^>                 Ping an external IP.
 
-1. Numbered
-2. List
+pping ^<ip^>                Ping an external IP with a TCP port.
+ $Usage$
 
-**Bold** and _Italic_ and `Code` text
+  pping ^<ip^>
+   Port: *enter port number*
 
-[Link](url) and ![Image](src)
+
+ipl ^<ip^>                  Look up the approximate data for an external IP.
+
+credits                   Show the people who helped develop Seraph.
+
+webem                     Redirects you to a discord webhook access application.
+
+update                    Update Seraph to the latest and stable version.
+ $Usage$
+
+   update /all
+
+
+python                    Redirects you to the Python Terminal (Latest Version of Python Required)
+
+node                      Rediects you to the Node.js Terminal (Latest Version of Node.js Required)
+
+cmd ^<command^>             Runs a Windows Command Prompt Command.
+
+ps ^<command^>              Runs a Windows Powershell Command.
+
+pwd                       Allows you to set a custom password for Seraph.
+
+ipinfo                    Show information about you're External IPV4 and IPV6.
+
+clear                     Clears the output of all previous commands.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ 
 
-### Jekyll Themes
+### Information
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Duelawig/Seraph/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Version: indev
+
+Currently working on Windows 10/11 (With bugs)
+
+### Developer Team
+
+**Duelawig** - [twitter.com/Duelawig](https://twitter.com/Duelawig)
+
+**Pythoral** - [twitter.com/pythoral](https://twitter.com/nazicrusader)
 
 ### Support or Contact
 
