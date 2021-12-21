@@ -64,4 +64,4 @@ Currently working on Windows 10/11 (With bugs)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Haveing issues? Email us at developmentseraph@gmail.com
