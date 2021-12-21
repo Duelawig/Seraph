@@ -12,16 +12,16 @@ Seraph is in a very unstable version at the moment and we do not have a release 
 
 
 ```
-ping ^<ip^>                 Ping an external IP.
+ping <ip>                 Ping an external IP.
 
-pping ^<ip^>                Ping an external IP with a TCP port.
+pping <ip>                Ping an external IP with a TCP port.
  $Usage$
 
-  pping ^<ip^>
+  pping <ip>
    Port: *enter port number*
 
 
-ipl ^<ip^>                  Look up the approximate data for an external IP.
+ipl <ip>                  Look up the approximate data for an external IP.
 
 credits                   Show the people who helped develop Seraph.
 
@@ -37,9 +37,9 @@ python                    Redirects you to the Python Terminal (Latest Version o
 
 node                      Rediects you to the Node.js Terminal (Latest Version of Node.js Required)
 
-cmd ^<command^>             Runs a Windows Command Prompt Command.
+cmd <command>             Runs a Windows Command Prompt Command.
 
-ps ^<command^>              Runs a Windows Powershell Command.
+ps <command>              Runs a Windows Powershell Command.
 
 pwd                       Allows you to set a custom password for Seraph.
 
