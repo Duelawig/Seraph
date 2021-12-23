@@ -1,0 +1,10 @@
+Latest Version of Node.js - Required for functionality of the Node.js Console
+
+Latest Version of Python - Required for functionality of the Python Console
+
+Paping - Required for functionality of the PPING Command
+
+
+Note: PAPING will install automatically upon opening Seraph for the first time.
+
+Once you enter the "python" or "node" command, Seraph will prompt you to install Python or Node.js.
